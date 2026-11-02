@@ -1,0 +1,16 @@
+id,location,size_sqft,purpose,price,road_width,facilities_count
+1,Mysore,1200,Residential,4500000,30,4
+2,Mysore,1500,Residential,5500000,40,5
+3,Mandya,1200,Residential,3200000,25,3
+4,Bangalore,1200,Residential,7500000,40,6
+5,Bangalore,1500,Residential,9500000,50,7
+6,Mysore,1800,Residential,6500000,40,6
+7,Mandya,1500,Residential,4000000,30,4
+8,Hassan,1200,Residential,3000000,25,3
+9,Mysore,1000,Commercial,5000000,30,5
+10,Bangalore,2000,Commercial,15000000,60,8
+11,Hassan,1500,Residential,3800000,30,4
+12,Mandya,1800,Residential,4800000,35,5
+13,Mysore,1400,Residential,5100000,35,5
+14,Bangalore,1000,Residential,6500000,40,6
+15,Hassan,1800,Residential,4500000,35,5

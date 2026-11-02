@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What properties are available?",
+        "answer": "You can view all available properties in the Projects section."
+    },
+    {
+        "question": "How can I book a plot?",
+        "answer": "Select a project, choose an available plot, and proceed to the booking page."
+    },
+    {
+        "question": "How can I check available plots?",
+        "answer": "Open the Project Details page and select Plot Layout to view available plots."
+    },
+    {
+        "question": "How can I make a booking?",
+        "answer": "Choose an available plot, enter the required details, and confirm your booking."
+    },
+    {
+        "question": "What is the payment process?",
+        "answer": "After booking, proceed to the payment section and complete the required payment steps."
+    },
+    {
+        "question": "How is property price predicted?",
+        "answer": "The system predicts property price using factors such as location, plot size, road width and facilities."
+    },
+    {
+        "question": "How does property recommendation work?",
+        "answer": "The recommendation system considers your budget, preferred location, plot size and purpose."
+    },
+    {
+        "question": "What documents are required?",
+        "answer": "Required documents depend on the property and booking process. Check the Documents section."
+    },
+    {
+        "question": "Can I search properties by location?",
+        "answer": "Yes. You can search and filter properties according to location."
+    },
+    {
+        "question": "What is NextGen Property Exchange?",
+        "answer": "NextGen Property Exchange is a web-based platform for searching, evaluating, recommending and booking properties."
+    }
+]
